@@ -271,17 +271,12 @@ This project implements a research-based approach to network intrusion detection
 - Feature Selection: sklearn-genetic-opt library
 
 ## 🤝 Contributing
-
-Contributions are welcome! Areas for improvement:
 - Additional ML models (Random Forest, SVM, etc.)
 - Hyperparameter tuning with Grid/Random Search
 - Real-time detection capabilities
 - Model interpretability (SHAP, LIME)
 - Multi-class attack classification
 
-## 📄 License
-
-This project is provided as-is for educational and research purposes.
 
 ## 👤 Author
 ## ANUJ RAWAT
