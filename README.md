@@ -284,10 +284,12 @@ Contributions are welcome! Areas for improvement:
 This project is provided as-is for educational and research purposes.
 
 ## 👤 Author
+## ANUJ RAWAT
 
 Network Security Research Project
 
 ## 📞 Support
+## anujrwt08@gmail.com
 
 For issues or questions:
 1. Check the troubleshooting section
